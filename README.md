@@ -1,4 +1,4 @@
-   E-commerce Platform System
+                  E-commerce Platform System
 This project is a complete e-commerce system allowing customers to browse products, manage carts, and place orders, while admins manage inventory and view sales. It demonstrates UML modeling, forward/reverse engineering in Enterprise Architect, and collaborative development using Git/GitHub workflows.
 
 
